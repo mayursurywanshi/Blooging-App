@@ -1,0 +1,3 @@
+Folloing stament is cut from tsconfig.json
+
+    "baseUrl": "./",
