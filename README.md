@@ -57,6 +57,7 @@ $ npm run test:e2e
 $ npm run test:cov
 ```
 
+<<<<<<< HEAD
 ## Deployment
 
 When you're ready to deploy your NestJS application to production, there are some key steps you can take to ensure it runs as efficiently as possible. Check out the [deployment documentation](https://docs.nestjs.com/deployment) for more information.
@@ -82,6 +83,9 @@ Check out a few resources that may come in handy when working with NestJS:
 - Need help with your project (part-time to full-time)? Check out our official [enterprise support](https://enterprise.nestjs.com).
 - To stay in the loop and get updates, follow us on [X](https://x.com/nestframework) and [LinkedIn](https://linkedin.com/company/nestjs).
 - Looking for a job, or have a job to offer? Check out our official [Jobs board](https://jobs.nestjs.com).
+=======
+
+>>>>>>> 958c6053056a94e694d1be84fba6974dc220b861
 
 ## Support
 
@@ -89,9 +93,14 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 
 ## Stay in touch
 
+<<<<<<< HEAD
 - Author - [Kamil Myśliwiec](https://twitter.com/kammysliwiec)
 - Website - [https://nestjs.com](https://nestjs.com/)
 - Twitter - [@nestframework](https://twitter.com/nestframework)
+=======
+- Author - Mayur R. Suryawanshi
+- LinkedIn - (https://www.linkedin.com/in/mayur-r-surywanshi-680a991b2/)
+>>>>>>> 958c6053056a94e694d1be84fba6974dc220b861
 
 ## License
 
